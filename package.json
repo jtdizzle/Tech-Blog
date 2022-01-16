@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "console.table": "^0.10.0",
+    "express": "^4.17.2",
+    "mysql": "^2.18.1",
+    "sequelize": "^6.13.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "tech-blog",
+  "description": "Model-View-Controller (MVC): Tech Blog",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtdizzle/Tech-Blog.git"
+  },
+  "author": "Jonathan Taylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtdizzle/Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/jtdizzle/Tech-Blog#readme"
+}
