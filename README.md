@@ -1,6 +1,6 @@
 # tech-blog
 
-Deploy link: 
+Deploy link: https://git.heroku.com/jtechblog.git
 
 Github Repo: https://github.com/jtdizzle/tech-blog
 
