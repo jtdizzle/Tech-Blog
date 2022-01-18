@@ -11,24 +11,23 @@
     "mysql": "^2.18.1",
     "mysql2": "^2.3.3",
     "npm-api": "^1.0.1",
+    "pg": "^8.7.1",
     "sequelize": "^6.13.0"
   },
   "scripts": {
     "start": "node server.js"
   },
-  
   "name": "jtechblog",
   "description": "Model-View-Controller (MVC): Tech Blog",
   "version": "1.0.0",
   "engines": {
-    "node": "17.3.1"},
-
+    "node": "17.3.1"
+  },
   "main": "server.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jtdizzle/Tech-Blog.git"
   },
-
   "author": "Jonathan Taylor",
   "license": "MIT",
   "bugs": {
