@@ -16,14 +16,19 @@
   "scripts": {
     "start": "node server.js"
   },
-  "name": "tech-blog",
+  
+  "name": "jtechblog",
   "description": "Model-View-Controller (MVC): Tech Blog",
   "version": "1.0.0",
+  "engines": {
+    "node": "17.3.1"},
+
   "main": "server.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jtdizzle/Tech-Blog.git"
   },
+
   "author": "Jonathan Taylor",
   "license": "MIT",
   "bugs": {
